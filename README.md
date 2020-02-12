@@ -1,7 +1,7 @@
 # 텐션연구소 보고서
 
 ## BRC 텐션연구소
-텐션연구소[BRC Tension Laboratory](이하 BTL)은 BRC 내 사조직으로 크루내 텐션증진을 주목적으로 한다.
+텐션연구소[BRC Tension Laboratory](https://github.com/Tension-Lab)(이하 BTL)은 BRC 내 사조직으로 크루내 텐션증진을 주목적으로 한다.
 
 ## Tension out 현상
 BTL에서는 2020.2.8 강릉 워정크샵에서 집단으로 발생한 현상을 텐션아웃(tension out) 으로 의하였다.  
